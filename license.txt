@@ -1,0 +1,11 @@
+Model Information:
+* title:	bmw m8 competition
+* source:	https://sketchfab.com/3d-models/bmw-m8-competition-d756f1f074644529b5662e6dbe51146b
+* author:	luffycado (https://sketchfab.com/luffycado)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "bmw m8 competition" (https://sketchfab.com/3d-models/bmw-m8-competition-d756f1f074644529b5662e6dbe51146b) by luffycado (https://sketchfab.com/luffycado) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
